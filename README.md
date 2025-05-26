@@ -9,5 +9,6 @@ The repository is organized chapter by chapter:
 
 - **All Chapters**: Solutions to exercises found at the end of each chapter.
 - **Chapter 2** (additionally): A detailed E2E Machine Learning project that closely follows the book’s guidance.
+- **All Chapters**: A PDF file conatining my handwritten notes of the most important things from every chapter of the book
 
 Each folder contains code, notes, and any required datasets.
